@@ -1,0 +1,16 @@
+# *.swp
+*.swp
+
+# __pycache__
+__pycache__
+
+# /venv
+/venv
+
+# tetris3d
+/tetris3d/dist
+/tetris3d/build
+/tetris3d/tetris3d.egg-info
+
+# tetris3d.html
+/tetris3d.html
